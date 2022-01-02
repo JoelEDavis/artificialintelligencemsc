@@ -1,2 +1,2 @@
 # artificialintelligencemsc
-All coursework files for AI MSc @ City University
+All coursework files for INM701
