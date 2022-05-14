@@ -1,1 +1,1 @@
-# artificialintelligencemsc
+# Files for all coursework modules
